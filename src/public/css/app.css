@@ -1,0 +1,25 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+.card-course-item {
+  margin-top: 16px; }
+
+.ml-auto, .mx-auto {
+  margin-left: auto !important; }
+
+.avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 5px; }
+
+.checkbox-options-select {
+  height: 30px;
+  margin: 0 16px; }
+
+.mr-auto {
+  margin-left: auto !important; }
+
+.logo-course {
+  width: 40px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 5px; }
